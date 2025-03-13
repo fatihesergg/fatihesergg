@@ -7,7 +7,7 @@
 <div id="bio">
   <h2 align="center">👨‍💻 About Me</h2>
   <ul>
-    <li> 🕊 My name is fatih.I'm aspnet core developer from Turkey 🇹🇷</li>
+    <li> 🕊 My name is fatih from Turkey 🇹🇷.Nice to meet you.</li>
     <li> 💻 I'm passionate about web development,programming,scripting,privacy,securtiy,digital rights,linux and learning new stuffs.</li>
     <li> 🐬 I enjoy exploring new Technologies,Resources,Blogs etc.</li>
     <li> 🧲 Currently im focusing aspnet core and dotnet core.</li>
