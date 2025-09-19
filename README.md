@@ -7,7 +7,6 @@
 <div id="bio">
   <h2 align="center">👨‍💻 About Me</h2>
   <ul>
-    <li> 🕊  Nice to meet you.</li>
     <li> 💻 I'm passionate about web development,programming,scripting,privacy,securtiy,digital rights,linux and learning new stuffs.</li>
     <li> 🐬 I enjoy exploring new Technologies,Resources,Blogs etc.</li>
     <li> 🧲 Currently im focusing backend development with Go</li>
