@@ -15,7 +15,6 @@
 
 <div align="center" id="stats">
     <h2>🧰 My Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihesergg&locale=tr&layout=compact&theme=github_dark"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=fatihesergg&locale=tr&show_icons=true&theme=github_dark"/><br/>
-    <img src="https://streak-stats.demolab.com?user=fatihesergg&theme=github-dark-blue&locale=tr"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihesergg&locale=tr&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fatihesergg&locale=tr&show_icons=true&theme=github_dark"/>
 </div>
